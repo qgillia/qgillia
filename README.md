@@ -1,3 +1,8 @@
+<p align="center">  
+  <img src="banner.gif" alt="header" width="50%"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Quinton</h1>
 <h3 align="center">A dedicated fullstack developer from Orlando, FL</h3>
 
