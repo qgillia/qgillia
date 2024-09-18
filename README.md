@@ -21,7 +21,7 @@
 
 <div class="badges-githubstats">  
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qgillia&theme=tokyonightshow_icons=true&locale=en&layout=compact" alt="qgillia" height="165" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qgillia&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="qgillia" height="165" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qgillia&theme=tokyonight" alt="qgillia" height="165" />
   </p>
 </div>
